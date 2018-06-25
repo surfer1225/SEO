@@ -15,3 +15,19 @@ a few strong head keywords and group of long-tail keywords
 - Influencers
 - New Markets
 - Media
+
+## Establish
+- Strategic partners
+- Marketing channels
+- Customer loyalty
+- Thought leadership
+- Branding & Awareness
+
+## Goal
+- Revenue
+- Credibility
+- Customer retention
+- visibility
+- Market share
+
+![example]https://github.com/surfer1225/SEO/blob/master/example.png
