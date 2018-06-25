@@ -30,4 +30,4 @@ a few strong head keywords and group of long-tail keywords
 - visibility
 - Market share
 
-![example]https://github.com/surfer1225/SEO/blob/master/example.png
+![example](https://github.com/surfer1225/SEO/blob/master/example.png)
