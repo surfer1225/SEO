@@ -37,4 +37,5 @@ a few strong head keywords and group of long-tail keywords
 
 
 ## Steps:
-- create starter list -> use ubersuggest for more words -> use mergewords to get more
+- create starter list -> use ubersuggest for more words -> use mergewords to get more -> check traffic in Google keyword tool
+-> check bing keyword search (bing shows accurate traffic)
